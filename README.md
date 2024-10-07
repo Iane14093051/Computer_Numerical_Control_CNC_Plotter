@@ -8,4 +8,4 @@ Users input a target design, which is converted into path commands and processed
 
 # Demo Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DwVW1ssXTtQ/0.jpg)](https://www.youtube.com/watch?v=3gOxqjiQkB4)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3gOxqjiQkB4/0.jpg)](https://www.youtube.com/watch?v=3gOxqjiQkB4)
