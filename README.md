@@ -1,4 +1,4 @@
-# Computer_Numerical_Control_CNC_Plotter
+# Computer_Numerical_Control_Plotter
 We are developing a CNC plotter centered around the PIC18F4520, capable of writing or drawing. By replacing the end effector with a cutting tool or laser generator, the plotter can be transformed into a CNC milling machine or laser engraver, making it highly versatile for advanced machining applications.
 
 ## **Introduction**
