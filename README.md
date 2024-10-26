@@ -6,6 +6,5 @@ Computer Numerical Control (CNC) refers to the automated control of machining to
 
 Users input a target design, which is converted into path commands and processed by a microcontroller. The signals are then sent to stepper motors controlling the X and Y axes to manage position, while a servo motor adjusts the tool (pen) height for drawing.
 
-# Demo Video
-
-![image]([picture or gif url](https://github.com/Iane14093051/Computer_Numerical_Control_CNC_Plotter/blob/main/image1.jpg))
+# Demo Image
+![image](https://github.com/Iane14093051/Computer_Numerical_Control_CNC_Plotter/blob/main/image1.jpg)
