@@ -8,4 +8,4 @@ Users input a target design, which is converted into path commands and processed
 
 # Demo Video
 
-
+![image]([picture or gif url](https://github.com/Iane14093051/Computer_Numerical_Control_CNC_Plotter/blob/main/image1.jpg))
